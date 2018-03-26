@@ -3,8 +3,9 @@ Contributors: Mat Lipe
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40matlipe%2ecom&lc=US&item_name=Simple%20Links%20&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: Link Manager, Links List, Link Organization
 Requires at least: 4.6.0
-Tested up to: 4.9.2
-Stable tag: 4.4.1
+Tested up to: 4.9.4
+Requires PHP: 5.2.4
+Stable tag: 4.4.2
 License: GPLv2
 
 Links Manager with many features. Makes managing links simple and robust.
@@ -20,26 +21,26 @@ A rebooted concept of the original WordPress Links Manager with many great enhan
 
 <h4>Features</h4>
 * Drag and drop link ordering
-* Featured image style, image attaching
-* Shortcode capabilities with a shortcode generating form
-* Additional usable Fields
-* Many widget options
-* Import links from the old WordPress Links manager
+* Optional link images
+* Shortcode support with a shortcode generating form
+* Ability to add additional custom fields
+* Widgets including various options for display
+* Ability to import links from the old WordPress Links manager
 * Options to remove the old WordPress Links Manager from the admin
 * Flexible permissions
 
 <h4>Pro Features</h4>
-* Priority support
+* Priority support.
 * Links will show up in search results.
-* Clicking a link in search results will take you to specified Web Address.
-* Export links to a csv file
-* Download a csv template to add links
-* Import a csv file to create links
-* Display the links in sections by category
-* Display the category’s title above the matching section
-* Display the category’s description above the matching section
-* Display multiple categories on a single page and order each one individually
-* Visual Shortcodes *NEW*
+* Links in search results point to the link's url.
+* Ability to import/export links via a csv file.
+* Available csv template for adding new links.
+* Ability to display the links in sections by category.
+* Ability to display the category’s title above sections.
+* Ability to display the category’s description above sections.
+* Display multiple categories on a single page and order each one individually.
+* Visual Shortcodes. *NEW*
+* Access to members only support area.
 
 <h4>Currently ships with the following languages</h4>
 * English (US)
@@ -48,7 +49,7 @@ A rebooted concept of the original WordPress Links Manager with many great enhan
 * Farsi (fa_IR)
 
 <h4>Developers</h4>
-Developer docs may be found <a target="_blank" href="https://matlipe.com/simple-links-docs/simple-links-developer-docs/">here</a>.
+Developer docs may be found <a target="_blank" href="https://matlipe.com/simple-links/simple-links-developer-docs/">here</a>.
 
 <h4>Contribute</h4>
 Send pull requests via the <a href="https://github.com/lipemat/simple-links/">Github Repo</a>
@@ -80,10 +81,10 @@ Send pull requests via the <a href="https://github.com/lipemat/simple-links/">Gi
 *Once this plugin is activated, you will find documentation on the "widgets", "pages", "posts", and "simple links settings" screens.
 
 = The full documentation can be found here =
-<a href="https://matlipe.com/simple-links-docs/">https://matlipe.com/simple-links-docs/</a> which is the same as the plugin link.
+<a href="https://matlipe.com/simple-links/">https://matlipe.com/simple-links/</a> which is the same as the plugin link.
 
 = For Developers Docs See =
-<a href="https://matlipe.com/simple-links-docs/simple-links-developer-docs/">http://matlipe.com/simple-links-docs/simple-links-developer-docs/</a>
+<a href="https://matlipe.com/simple-links/simple-links-developer-docs/">http://matlipe.com/simple-links/simple-links-developer-docs/</a>
 
 = For all other questions =
 Start a support thread and myself or someone from the community can probably help you out. Support thread will be answered faster than contact submissions from my website.
