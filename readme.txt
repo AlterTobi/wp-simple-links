@@ -1,11 +1,11 @@
 === Simple Links ===
-Contributors: Mat Lipe
+Contributors: Mat Lipe, onpointplugins
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40matlipe%2ecom&lc=US&item_name=Simple%20Links%20&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
-Tags: Link Manager, Links List, Link Organization
+Tags: link manager, link organizations, links
 Requires at least: 5.1.0
 Tested up to: 5.2.3
 Requires PHP: 5.6.0
-Stable tag: 4.6.4
+Stable tag: 4.6.5
 License: GPLv2
 
 Links Manager with many features. Makes managing links simple and robust.
@@ -14,9 +14,9 @@ Links Manager with many features. Makes managing links simple and robust.
 
 A rebooted concept of the original WordPress Links Manager with many great enhancements and features.
 
-<strong>Check out <a href="https://matlipe.com/product/simple-links-pro/">Simple Links Pro</a> for more features including priority support, display links by category, Display links assigned to all categories, import/export ability via csv, links in search results and so much more!</strong>
+<strong>Check out <a href="https://onpointplugins.com/product/simple-links-pro/">Simple Links Pro</a> for more features including priority support, display links by category, Display links assigned to all categories, import/export ability via csv, links in search results and so much more!</strong>
 
-<blockquote><a href="https://matlipe.com/product/simple-links-pro/" target="_blank">Pro version 1.3.0</a> is now available with support for Beaver Builder!</blockquote>
+<blockquote><a href="https://onpointplugins.com/product/simple-links-pro/" target="_blank">Pro version 1.4.0</a> is now available with support for Beaver Builder!</blockquote>
 
 
 <h4>Features</h4>
@@ -51,7 +51,7 @@ A rebooted concept of the original WordPress Links Manager with many great enhan
 * Farsi (fa_IR)
 
 <h4>Developers</h4>
-Developer docs may be found <a target="_blank" href="https://matlipe.com/simple-links/simple-links-developer-docs/">here</a>.
+Developer docs may be found <a target="_blank" href="https://onpointplugins.com/simple-links/simple-links-developer-docs/">here</a>.
 
 <h4>Contribute</h4>
 Send pull requests via the <a href="https://github.com/lipemat/simple-links/">Github Repo</a>
@@ -89,10 +89,10 @@ Send pull requests via the <a href="https://github.com/lipemat/simple-links/">Gi
 *Once this plugin is activated, you will find documentation on the "widgets", "pages", "posts", and "simple links settings" screens.
 
 = The full documentation can be found here =
-<a href="https://matlipe.com/simple-links/">https://matlipe.com/simple-links/</a> which is the same as the plugin link.
+<a href="https://onpointplugins.com/simple-links/">https://onpointplugins.com/simple-links/</a> which is the same as the plugin link.
 
 = For Developers Docs See =
-<a href="https://matlipe.com/simple-links/simple-links-developer-docs/">http://matlipe.com/simple-links/simple-links-developer-docs/</a>
+<a href="https://onpointplugins.com/simple-links/simple-links-developer-docs/">http://onpointplugins.com/simple-links/simple-links-developer-docs/</a>
 
 = For all other questions =
 Start a support thread and myself or someone from the community can probably help you out. Support thread will be answered faster than contact submissions from my website.
