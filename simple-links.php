@@ -3,7 +3,7 @@
  * Plugin Name: Simple Links
  * Plugin URI: https://onpointplugins.com/simple-links/
  * Description: Links Manager with many features. Makes managing links simple and robust.
- * Version: 4.7.2
+ * Version: 4.7.3
  * Author: OnPoint Plugins
  * Author URI: https://onpointplugins.com/
  * Contributors: OnPoint Plugins
@@ -15,7 +15,7 @@
 if ( defined( 'SIMPLE_LINKS_VERSION' ) ) {
 	return;
 }
-define( 'SIMPLE_LINKS_VERSION', '4.7.2' );
+define( 'SIMPLE_LINKS_VERSION', '4.7.3' );
 
 define( 'SIMPLE_LINKS_DIR', plugin_dir_path( __FILE__ ) );
 define( 'SIMPLE_LINKS_URL', plugin_dir_url( __FILE__ ) );
@@ -78,42 +78,3 @@ function simple_links_load() {
 }
 
 add_action( 'plugins_loaded', 'simple_links_load' );
-
-add_action( 'simple_links_widget_form', function () {
-	if ( defined( 'SIMPLE_LINKS_PRO_VERSION' ) ) {
-		return;
-	}
-	?>
-	<hr/>
-	<h3>
-		<?php esc_html_e( ' Simple Links PRO!', 'simple-links' ); ?>
-	</h3>
-	<p>
-		<?php
-		/* translators: <a> link created by placeholders */
-		printf( esc_html__( 'Upgrade to %1$sSimple Links PRO%2$s for priority support, Gutenberg blocks, display by category, import/export of links, searchable links, and so much more!', 'simple-links' ), '<a target="blank" href="https://onpointplugins.com/product/simple-links-pro/">', '</a>' );
-		?>
-	<p>
-	<?php
-
-} );
-add_action( 'simple_links_shortcode_form', function () {
-	if ( defined( 'SIMPLE_LINKS_PRO_VERSION' ) ) {
-		return;
-	}
-	?>
-	<fieldset>
-		<legend>
-			<?php esc_html_e( ' Simple Links PRO!', 'simple-links' ); ?>
-		</legend>
-	<p>
-		<?php
-		/* translators: <a> link created by placeholders */
-		printf( esc_html__( 'Upgrade to %1$sSimple Links PRO%2$s for priority support, Gutenberg blocks, display by category, import/export of links, searchable links, and so much more!', 'simple-links' ), '<a target="blank" href="https://onpointplugins.com/product/simple-links-pro/">', '</a>' );
-		?>
-	</p>
-	</fieldset>
-	<?php
-} );
-
-

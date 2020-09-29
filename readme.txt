@@ -5,22 +5,19 @@ Tags: link manager, link organizations, links
 Requires at least: 5.1.0
 Tested up to: 5.5.1
 Requires PHP: 5.6.0
-Stable tag: 4.7.2
+Stable tag: 4.7.3
 License: GPLv2
 
 Links Manager with many features. Makes managing links simple and robust.
 
 == Description ==
 
+<div class="plugin-notice notice notice-warning notice-alt"><p>This plugin has been discontinued and is no longer supported. If you wish to adopt this plugin, <a href="https://onpointplugins.com/about/contact/" target="_blank">let us know</a>.</p></div>
+
 A rebooted concept of the obsolete <a rel="noreferrer noopener" aria-label="Links Manager (opens in a new tab)" href="https://codex.wordpress.org/Links_Manager" target="_blank">Links Manager</a> with many great enhancements and features. Manage and display links in your theme's style. Fully extendable for developers who want to customize the functionality and output. Simple Links takes care of the back-end to let you focus on user experience.
 
 
 This plugin is now the standard for managing links in WordPress.
-
-
-<strong>Check out <a href="https://onpointplugins.com/product/simple-links-pro/">Simple Links Pro</a> for priority support, Gutenberg blocks, display by category, import/export of links, searchable links, and so much more!!</strong>
-
-<blockquote><a href="https://onpointplugins.com/product/simple-links-pro/" target="_blank">Pro version 1.5.2</a> is now available with a Gutenberg block!</blockquote>
 
 
 <h3>Features</h3>
@@ -32,22 +29,6 @@ This plugin is now the standard for managing links in WordPress.
 * Ability to import links from the old WordPress Links manager
 * Options to remove the old WordPress Links Manager from the admin
 * Flexible permissions
-
-<h3>Pro Features</h3>
-* Priority support.
-* Links will show up in search results.
-* Links in search results point to the link's url.
-* Use the Simple Links posts as a public post type.
-* Ability to import/export links via a csv file.
-* Available csv template for adding new links.
-* Visual shortcodes.
-* Ability to display the links in sections by category.
-* Ability to display the category’s title above sections.
-* Ability to display the category’s description above sections.
-* Display multiple categories on a single page and order each one individually.
-* Option to only include links assigned to all selected categories.
-* Gutenberg block with support for all widget options and real time previews. **NEW**
-* Access to members only support area.
 
 <h3>Currently ships with the following languages</h3>
 * English (US)
@@ -63,11 +44,6 @@ Send pull requests via the <a href="https://github.com/lipemat/simple-links/">Gi
 
 
 == Upgrade Notice ===
-= 4.7.0 =
-* Update to support PRO version 1.5.0
-
-= 4.4.4 =
-* Support PRO version 1.2.0
 
 = 4.4.3 =
 * Fix field values turning into Array with Gutenberg active
@@ -102,6 +78,10 @@ Start a support thread and myself or someone from the community can probably hel
 2. The short-code generating form
 
 == Changelog ==
+= 4.7.3 =
+* Final supported version from OnPoint Plugins.
+* Officially discontinue plugin.
+
 = 4.7.2 =
 * Support WordPress version 5.5.0
 * Improve readme.txt
